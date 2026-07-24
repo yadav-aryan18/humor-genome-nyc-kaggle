@@ -94,7 +94,7 @@ The platform treats humor as a structured discipline, offering six specialized i
    ```
 
 4. Open `http://localhost:3000` in your browser.
-5. Click the **Settings** gear icon in the top right header, enter your Google AI Studio API key, and select your preferred primary model (such as `gemini-2.5-flash` or `gemma-3-27b-it`).
+5. Click the **Settings** gear icon in the top right header, enter your Google AI Studio API key, and select your preferred primary model (such as `gemini-3.5-flash` or `gemma-4-31b-it`).
 
 ---
 
