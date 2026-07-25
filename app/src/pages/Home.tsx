@@ -181,7 +181,7 @@ export default function Home() {
             className="mt-12 flex flex-wrap items-center justify-center gap-x-8 gap-y-3 font-mono text-[11px] text-muted-foreground/70"
           >
             <span><span className="text-gold">06</span> modules</span>
-            <span><span className="text-gold">03</span> hackathon tracks</span>
+            <span><span className="text-gold">03</span> tracks</span>
             <span><span className="text-gold">08</span> genome dimensions</span>
             <span><span className="text-gold">∞</span> tweakable parameters</span>
           </motion.div>
@@ -336,9 +336,9 @@ export default function Home() {
       <section id="tracks" className="border-t border-border/60 bg-secondary/5 py-24">
         <div className="mx-auto max-w-7xl px-4 sm:px-6">
           <Reveal>
-            <p className="font-mono text-[11px] uppercase tracking-[0.3em] text-gold">04 — The hackathon</p>
+            <p className="font-mono text-[11px] uppercase tracking-[0.3em] text-gold">04 — The forks in the road</p>
             <h2 className="mt-3 max-w-3xl font-display text-3xl font-bold tracking-tight sm:text-5xl">
-              All three tracks.<br />One submission.
+              Three tracks.<br />One platform.
             </h2>
           </Reveal>
           <div className="mt-12 grid gap-4 lg:grid-cols-3">
